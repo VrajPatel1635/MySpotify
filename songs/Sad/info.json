@@ -1,4 +1,15 @@
 {
     "title": "Sad Songs",
-    "description": "Just Feel the Music"
+    "description": "Just Feel the Music",
+    "songs": [
+    "Agar_Tum_Saath_Ho-Tamasha.mp3",
+    "Dil_Meri_Na_Sune-Genius.mp3",
+    "Kabira-Yeh_Jawaani_Hai_Deewani.mp3",
+    "Kaise_Hua-Kabir_Singh.mp3",
+    "Lo_Maan_Liya-Raaz_Reboot.mp3",
+    "O_Bedardeya-Tu_Jhoothi_Main_Makkar.mp3",
+    "Tera_Fitoor-Genius.mp3",
+    "Thodi_Jagah-Marjaavaan.mp3",
+    "Ve_Kamleya-Rocky_Aur_Rani_Kii_Prem_Kahaani.mp3"
+  ]
 }
