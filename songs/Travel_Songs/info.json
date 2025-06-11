@@ -1,4 +1,15 @@
 {
     "title": "Travel Songs",
-    "description": "Just Enjoy Travelling!"
+    "description": "Just Enjoy Travelling!",
+    "songs": [
+    "Apna_Bana_Le-Bhediya.mp3",
+    "Chaleya-Jawan.mp3",
+    "Desi_Kalakaar-Desi_Kalakaar.mp3",
+    "Ilahi-Yeh_Jawaani_Hai_Deewani.mp3",
+    "Love_Dose-Desi_Kalakaar.mp3",
+    "Love_You_Zindagi-Dear_Zindagi.mp3",
+    "Phir_Se_Udd_Chala.mp3",
+    "Safar-Jab_Harry_Met_Sejal.mp3",
+    "Sooraj_Dooba_Hain-Roy.mp3"
+  ]
 }
