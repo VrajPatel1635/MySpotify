@@ -1,4 +1,15 @@
 {
     "title": "Happy Hits!",
-    "description": "Hits to boost your mood and fill you with happiness!"
+    "description": "Hits to boost your mood and fill you with happiness!",
+    "songs": [
+    "Badtameez_Dil-Yeh_Jawaani_Hai_Deewani.mp3",
+    "Balam_Pichkari-Yeh_Jawaani_Hai_Deewani.mp3",
+    "Ik_Vaari_Aa-Raabta.mp3",
+    "Malang_Sajna-Sachet_Tandon.mp3",
+    "Matargashti-Tamasha.mp3",
+    "Raat_Bhar-Heropanti.mp3",
+    "Sau_Aasmaan-Baar_Baar_Dekho.mp3",
+    "Soni_Soni-Ishq_Vishk_Rebound.mp3",
+    "Tere_Pyaar_Mein-Tu_Jhoothi_Main_Makkar.mp3"
+  ]
 }
